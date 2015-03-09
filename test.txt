@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 ﻿hello world!嘿嘿嘿wwwww
-=======
 hello world!嘿嘿嘿nono
 gogo
->>>>>>> origin/master
